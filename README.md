@@ -55,25 +55,6 @@ All visualizations are generated using `matplotlib` and `seaborn`.
 
 ⚙️ Installation & Run
 
-Clone the repository:
-
-git clone https://github.com/your-username/car-fuel-consumption-analysis.git
-
-
-Go to the project directory:
-
-cd car-fuel-consumption-analysis
-
-
-Install required dependencies:
-
-pip install -r requirements.txt
-
-
-Run the program:
-
-python main.py
-
 ---
 
 ## 🔑 API Usage
